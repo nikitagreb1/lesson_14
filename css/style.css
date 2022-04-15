@@ -638,6 +638,7 @@ body {
 .our-impact__item {
 	position: relative;
 	padding-left: 87px;
+	z-index: 3;
 }
 .item {
 }
